@@ -19,10 +19,19 @@ h2{
 img{
     margin-left: 10em;
 }
+.acercade{
+    margin-top: 0.5em;
+}
+.contacto{
+    margin-bottom: 5em;
+}
 
-a{
+.linksorange{
     font-size: 0.75em;
     color:white;
     background-color: orangered;
     padding: 0.3em;
+}
+.mail{
+    color:blue
 }
